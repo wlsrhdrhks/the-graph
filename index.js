@@ -1,5 +1,5 @@
 
-// Module object
+// Module object hello
 var TheGraph = {};
 
 // Bundle and expose fbp-graph as public API
